@@ -5,7 +5,7 @@
  This repository is linked to a study related to fracture identification in
  complex porous media.
 
- There are 4 main steps:
+ There are 3 main steps:
 
  1) Generate a database of contour properties for a 3D segmented image.
 
