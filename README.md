@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/245929742.svg)](https://zenodo.org/badge/latestdoi/245929742)
+
 # fracture_pore_identification
  Structural analysis of fractures and pores in complex fractured porous media at pore-scale
 
